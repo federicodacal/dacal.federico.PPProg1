@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621255479 source:c:\users\feder\desktop\federico.dacal.ppprog1\ppprog1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
